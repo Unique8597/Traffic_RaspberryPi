@@ -30,7 +30,7 @@ This project implements a dynamic traffic control system based on real-time car 
 1. **Set up Raspbian OS:** Install Raspbian OS on your Micro SD card and boot it on your Raspberry Pi.
 2. **Enable camera:** Enable the Raspberry Pi Camera Module using `raspi-config`.
 3. **Install dependencies:** Install OpenCV using `sudo apt-get install python3-opencv`.
-4. **Clone the repository:** Clone this repository to your Raspberry Pi using `git clone https://github.com/your-username/car-density-traffic-control.git`.
+4. **Clone the repository:** Clone this repository to your Raspberry Pi using `git clone https://github.com/Unique8597/Traffic_RaspberryPi.git`.
 5. **Install Python dependencies:** Install the required Python libraries using `pip install -r requirements.txt`.
 
 ### Running the application
